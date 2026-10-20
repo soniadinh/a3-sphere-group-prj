@@ -5,17 +5,24 @@ This is the A3 group project for the S.O.S. after-effect at the RRM
 # Royal Saskatchewan Museum — Sphere of Science
 
 ## 1. Project Overview
-Describe the project, its scientific topic, and the intended audience.
+A paper-cutout animation introducing the North American bison for the Royal Saskatchewan Museum Sphere of Science.
 
 ## 2. Research
-- Technique researched:
+- Technique researched: Research on bison in Canada.
 - Sources consulted:
-- How the technique is used:
-- Why it is appropriate for the Sphere:
+https://parks.canada.ca/pn-np/sk/princealbert/nature/bisons/faits-facts
+https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos
+https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos2
+Meadow Ecosystem https://www.canadiancattlemen.ca/news/opinion-wetlands-and-resilient-landscapes-a-match-made-in-canada/
+Rocky mountain https://kids.kiddle.co/Image:RockyMountains-Range.svg
+Forest Fringe
+<img width="468" height="175" alt="image" src="https://github.com/user-attachments/assets/3070ba3d-c92c-42c3-9671-9c472a61406b" />
+
+- How the technique is used: Create assets of bison images, background, foreground, follow the paper cut-out style, use text-to-speech to generate the narration, and create animation in After Effects using those assets. 
+- Why it is appropriate for the Sphere: The animations are created and organized as pre-comp sets; the RRM can use those pre-comps to reproduce their desired video, modify, or add on to their Sphere software adaptively. 
 
 ## 3. Visual Direction
-Describe the agreed paper aesthetic, textures, colours,
-illustration style, and how the group maintained consistency.
+The bison video is for children's education; we decided to make it in a paper cut-out style, with a manipulated background and basic animations.
 
 ## 4. Production Workflow
 1. Research and sketch ideas.
