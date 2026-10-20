@@ -14,7 +14,7 @@ https://parks.canada.ca/pn-np/sk/princealbert/nature/bisons/faits-facts
 https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos
 https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos2
 Meadow Ecosystem https://www.canadiancattlemen.ca/news/opinion-wetlands-and-resilient-landscapes-a-match-made-in-canada/
-Rocky mountain https://kids.kiddle.co/Image:RockyMountains-Range.svg
+Rocky Mountain https://kids.kiddle.co/Image:RockyMountains-Range.svg
 Forest Fringe
 <img width="468" height="175" alt="image" src="https://github.com/user-attachments/assets/3070ba3d-c92c-42c3-9671-9c472a61406b" />
 
@@ -33,8 +33,10 @@ The bison video is for children's education; we decided to make it in a paper cu
 6. Package the assets with their SOS files.
 
 ## 5. Asset Inventory
-List all five assets, their variations, file formats,
-dimensions, and whether they are animated.
+* Background
+* Foreground
+* Bison
+* Sound
 
 ## 6. Technical Specifications
 Document composition dimensions, frame rate, export codec,
