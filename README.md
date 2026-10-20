@@ -54,9 +54,9 @@ Include screenshots of:
 ## 10. Credits and References
 List research sources, audio sources, and external assets.
 - Sources consulted:
-https://parks.canada.ca/pn-np/sk/princealbert/nature/bisons/faits-facts
-https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos
-https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos2
-Meadow Ecosystem https://www.canadiancattlemen.ca/news/opinion-wetlands-and-resilient-landscapes-a-match-made-in-canada/
-Rocky Mountain https://kids.kiddle.co/Image:RockyMountains-Range.svg
-Forest Fringe https://thenarwhal.ca/skownan-first-nation-wood-bison/
+- https://parks.canada.ca/pn-np/sk/princealbert/nature/bisons/faits-facts
+- https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos
+- https://parks.canada.ca/pn-np/ab/elkisland/nature/eep-sar/media/photos2
+- Meadow Ecosystem https://www.canadiancattlemen.ca/news/opinion-wetlands-and-resilient-landscapes-a-match-made-in-canada/
+- Rocky Mountain https://kids.kiddle.co/Image:RockyMountains-Range.svg
+- Forest Fringe https://thenarwhal.ca/skownan-first-nation-wood-bison/
